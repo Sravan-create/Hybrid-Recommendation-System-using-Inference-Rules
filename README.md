@@ -60,4 +60,13 @@ This project is an intelligent, hybrid movie recommendation system built on a Ne
 ```bash
 git clone https://github.com/Sravan-create/Hybrid-Recommendation-System-using-Inference-Rules
 cd Hybrid-Recommendation-System-using-Inference-Rules
+kagglehub
+pandas
+mlxtend
+networkx
+matplotlib
+fuzzywuzzy
+scikit-learn
+tensorflow
+prophet
 pip install -r requirements.txt
