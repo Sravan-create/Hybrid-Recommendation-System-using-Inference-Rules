@@ -1,0 +1,2 @@
+# Hybrid-Recommendation-System-using-Inference-Rules
+A hybrid Netflix recommendation system combining Apriori-based association rules, inference logic, knowledge graphs, machine learning &amp; deep learning, FuzzyWuzzy for fuzzy matching, and Prophet for time-based trend forecasting. This system intelligently recommends content by blending structured rule mining with intelligent prediction models.
