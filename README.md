@@ -295,8 +295,6 @@ The project provided practical experience in:
 
 Individual final-year project in Computer Science and Engineering, specialising in Artificial Intelligence and Machine Learning.
 
-[GitHub Repository](https://github.com/Sravan-create/Hybrid-Recommendation-System-using-Inference-Rules)
-
 ## Acknowledgements
 
 Thanks to Shivam Bansal for the Netflix dataset and to the maintainers of the open-source libraries used in this project.
